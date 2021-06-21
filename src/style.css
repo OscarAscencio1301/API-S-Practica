@@ -1,0 +1,60 @@
+h1 {
+    color: blueviolet;
+    font-size: 2rem;
+    text-align: center;
+}
+
+body {
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+p {
+    border-bottom: 1px solid gray;
+    padding-bottom: 0.5rem;
+}
+
+img {
+    max-width: 100%;
+    width: 150px;
+}
+
+.boton {
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    display: block;
+    width: 50%;
+    padding: 1rem 0;
+    font-size: 1.4rem;
+    border-radius: 2rem;
+    margin: 0 auto;
+}
+
+.boton:hover {
+    background-color: green;
+    cursor: pointer;
+}
+
+table {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+td {
+    border-bottom: 1px dashed gray;
+    padding: 1rem 0;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 1rem;
+}
+
+#foto {
+    width: 500px;
+    margin-top: 3rem;
+}
